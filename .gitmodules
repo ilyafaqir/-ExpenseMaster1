@@ -1,0 +1,6 @@
+[submodule "Frontend_APP_expense"]
+	path = Frontend_APP_expense
+	url = https://github.com/ilyafaqir/Frontend_APP_expense.git
+[submodule "transaction_backend"]
+	path = transaction_backend
+	url = https://github.com/ilyafaqir/transaction_backend.git
